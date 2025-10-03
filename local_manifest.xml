@@ -5,7 +5,7 @@
                  fetch="https://github.com" clone-depth="1" />
 
 <!-- Device Tree -->
-<project path="device/xiaomi/mojito" name="Baikal-OS/android_device_xiaomi_mojito"  remote="Sachin" revision="baikal" />
+<project path="device/xiaomi/mojito" name="Baikal-OS/android_device_xiaomi_mojito" remote="Sachin" revision="baikal" />
 
 <!-- Vendor Tree -->
 <project path="vendor/xiaomi/mojito" name="Baikal-OS/android_vendor_xiaomi_mojito" remote="Sachin" revision="baikal" />
