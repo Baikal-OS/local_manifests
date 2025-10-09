@@ -13,7 +13,7 @@
 <!-- Kernel Tree -->
 <project path="kernel/xiaomi/mojito" name="Baikal-OS/android_kernel_xiaomi_mojito" remote="Sachin" revision="baikal" />
 
-<!-- Custom android_packages_modules_Bluetooth -->
+<!-- Custom android_external_bouncycastle -->
 <remove-project name="android_external_bouncycastle" />
 <project path="platform/external/bouncycastle" name="Baikal-OS/android_external_bouncycastle" remote="Sachin" revision="13.0" />
          
